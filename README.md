@@ -1,5 +1,5 @@
 # Java-
-TASK 1 Calculator 
+TASK 1 Number Game
 import java.util.Scanner;
 public class NumberGame {
 
